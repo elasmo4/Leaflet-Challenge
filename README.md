@@ -18,15 +18,13 @@
 >
 > Usage: Educational purposes only
 >
-> Dataset created by the United States Geological Survey
+> Dataset created by the [United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
 > 
 
 
 <h5>Features and Tests</h5>
 
 > Leaflet-Challenge provides an interactive map containing information about Earthquakes occuring in the last 30 days
-> 
-> Visitors should check that the site disploys upon launching URL made available above.
 > 
 
 <h5>Contact:</h5>

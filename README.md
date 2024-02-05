@@ -24,7 +24,7 @@
 
 <h5>Features and Tests</h5>
 
-> Leaflet-Challenge provides an interactive map containing information about Earthquakes occuring in the last 30 days
+> When launched, Leaflet-Challenge provides an interactive map containing information about Earthquakes occuring in the last 30 days
 > 
 
 <h5>Contact:</h5>

@@ -4,7 +4,7 @@
 
 > The Leaflet-Challenge skeletal program can be found by navigating to the "static/js" folder and then selecting the "logic.js" file
 >
-> ![All Earthquakes in the Last 30 Days](Leaflet-Challenge-Capture.PNG)
+![All Earthquakes in the Last 30 Days](Leaflet-Challenge-Capture.PNG)
 
 
 <h5>Modules Utilized</h5>

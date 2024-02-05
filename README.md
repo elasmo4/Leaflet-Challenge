@@ -9,7 +9,7 @@
 
 <h5>Modules Utilized</h5>
 
-> Javascript, D3, Leaflet, HTML, CSS
+> Javascript (D3, Leaflet) HTML, CSS
 > 
 
 <h5>Code source and Usage:</h5>
